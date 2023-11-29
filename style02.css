@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+footer p {
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+h3{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: justify;
+}
+ul{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    background-color:black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 7px;
+    font-family: sans-serif;
+}
